@@ -1,17 +1,23 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+Date I created this project
+1st of July, 2022.
 
 ### Project Title
-Replace the Project Title
+Bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+My project is about your python programming language to explore Motivate Bikeshare company in United State of America.
+Motivate bikeshare is a company that hire bike to customer. This company has a lot of stations that make it possible to hire a bike from a source and returned it to a different station or the  same station.
+So, my project was to find statistics from Chicago. Washington and New-York-city.
 
 ### Files used
-Include the files used
+Chicago.csv
+Washington.csv
+New-York-city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+All thanks and credit goes to Udacity Learning platform who made everything possible to guide and helped me to accomplished
+such Project.
