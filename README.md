@@ -17,5 +17,9 @@ Washington.csv
 New-York-City.csv
 
 ### Credits
-Thanks to Udacity
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All thanks and credit goes to Udacity Learning platform who made everything possible to guide and helped me to accomplished
+such Project.
+If you want to become Data scientist, I'll encourage to enroll in the programming for data science with python Nanodegree from Udacity and it'll set you lead you there.
+
+Udacity number one!!!
+Udacity dream comes true!!!  
