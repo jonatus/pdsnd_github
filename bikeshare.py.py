@@ -44,6 +44,7 @@ def get_filters():
         if view not in show:
             result = df.iloc[0:7]
             print(f"\nThe first 7 filtered rows are {result} ")
+            print("\nwait for the stats")
             start_loc =+ 7
 
             nue_filtering = input("Do yo want to continue filtering another 7 rows\n").lower()
