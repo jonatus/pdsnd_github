@@ -2,7 +2,6 @@
 
 ### Date created
 1st July 2021
-
 ### Project Title
 bikeshare
 
@@ -12,9 +11,9 @@ Motivate bikeshare is a company that hire bike to customer. This company has a l
 So, my project was to find statistics from Chicago. Washington and New-York-city.
 
 ### Files used
-Chicago.csv
-Washington.csv
-New-York-City.csv
+Chicago.csv,
+Washington.csv,
+New-York-City.csv.
 
 ### Credits
 All thanks and credit goes to Udacity Learning platform who made everything possible to guide and helped me to accomplished
