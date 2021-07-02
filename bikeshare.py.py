@@ -13,6 +13,7 @@ days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'satur
 
 def get_filters():
     print('\nHello! Let\'s explore some US bikeshare data!')
+    print("\n Type city, month and day according to the instrution given, Thank you")
 
     while True :
         city =input('\nchoose from chicago, new york city or washington to filter\n').lower()
