@@ -21,3 +21,7 @@ New-York-city.csv
 
 All thanks and credit goes to Udacity Learning platform who made everything possible to guide and helped me to accomplished
 such Project.
+If you want to become Data scientist, I'll encourage to enroll in the programming for data science with python Nanodegree from Udacity and it'll set you lead you there.
+
+Udacity number one!!!
+Udacity dream comes true!!!  
